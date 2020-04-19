@@ -4592,6 +4592,8 @@ in
 
   lesspipe = callPackage ../tools/misc/lesspipe { };
 
+  liquidctl = callPackage ../tools/misc/liquidctl { };
+
   liquidsoap = callPackage ../tools/audio/liquidsoap/full.nix {
     ffmpeg = ffmpeg-full;
     ocamlPackages = ocaml-ng.ocamlPackages_4_07;
