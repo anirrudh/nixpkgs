@@ -81,7 +81,7 @@ in
       x86_64-linux = "";
       aarch64-linux = "";
       x86_64-darwin = "";
-      aarch64-darwin = "a35017cf51e1e2b86801fd9e0937d7690559f096631b57134527f51f2d6708ea";
+      aarch64-darwin = "sha256-Y2lBBAATz46PI+bJ3LUSOLQA7LVITNAd/Ti+jz048cw=";
     };
     flutterHash = rec {
       x86_64-linux = "";
