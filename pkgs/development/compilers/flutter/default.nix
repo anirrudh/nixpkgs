@@ -87,7 +87,7 @@ in
       x86_64-linux = "";
       aarch64-linux = x86_64-linux;
       x86_64-darwin = "";
-      aarch64-darwin = "sha256-gUeK8XEXiCl9tB+vwER/YSN6O82g0PfntLuFjqColRU=";
+      aarch64-darwin = "sha256-9VvIEC8KMOdTNkcON8SNiipUISmemCyxpkyCp+FqVNM=";
     };
     patches = flutter3Patches;
   };
