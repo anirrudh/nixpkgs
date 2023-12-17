@@ -74,20 +74,20 @@ in
 {
   inherit wrapFlutter;
   stable = mkFlutter {
-    version = "3.13.8";
-    engineVersion = "767d8c75e898091b925519803830fc2721658d07";
-    dartVersion = "3.1.4";
+    version = "3.16.4";
+    engineVersion = "c08d7d5efc9aa6eb3c30cfb3be6dc09bca5e7631";
+    dartVersion = "3.2.3";
     dartHash = {
-      x86_64-linux = "sha256-42wrqzjRcFDWw2aEY6+/faX+QE9PA8FmRWP4M/NkgBE=";
-      aarch64-linux = "sha256-/tWWWwTOgXHbwzotc7ZDDZa8+cbX6NODGYrjLK9gPPg=";
-      x86_64-darwin = "sha256-BchKowKd6BscVuk/dXibcQzdFkW9//GDfll77mHEI4M=";
-      aarch64-darwin = "sha256-9yrx09vYrOTmdqkfJI7mfh7DI1/rg67tPlf82m5+iKI=";
+      x86_64-linux = "";
+      aarch64-linux = "";
+      x86_64-darwin = "";
+      aarch64-darwin = "sha256-gUeK8XEXiCl9tB+vwER/YSN6O82g0PfntLuFjqColRU=";
     };
     flutterHash = rec {
-      x86_64-linux = "sha256-ouI1gjcynSQfPTnfTVXQ4r/NEDdhmzUsKdcALLRiCbg=";
+      x86_64-linux = "";
       aarch64-linux = x86_64-linux;
-      x86_64-darwin = "sha256-k6KNazP/I71zG5mbx3iEtXBJ8EZi9Qq+7PgL/HAJrgE=";
-      aarch64-darwin = "sha256-Duvw8EqrGb3PmBHBH/prZjyij2xJd9sLkNfPRYpC0pQ=";
+      x86_64-darwin = "";
+      aarch64-darwin = "sha256-gUeK8XEXiCl9tB+vwER/YSN6O82g0PfntLuFjqColRU=";
     };
     patches = flutter3Patches;
   };
