@@ -69,7 +69,7 @@ let
       };
     });
 
-  flutter3Patches = getPatches .patches/flutter3;
+  flutter3Patches = getPatches patches/flutter3;
 in
 {
   inherit wrapFlutter;
