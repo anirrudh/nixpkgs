@@ -2,7 +2,7 @@ diff --git a/packages/flutter_tools/lib/src/doctor.dart b/packages/flutter_tools
 index 651dc6cf36..236eb370e1 100644
 --- a/packages/flutter_tools/lib/src/doctor.dart
 +++ b/packages/flutter_tools/lib/src/doctor.dart
-@@ -515,7 +515,6 @@ class FlutterValidator extends DoctorValidator {
+@@ -567,7 +567,6 @@ class FlutterValidator extends DoctorValidator {
        final String flutterRoot = _flutterRoot();
        messages.add(_getFlutterVersionMessage(frameworkVersion, versionChannel, flutterRoot));
  

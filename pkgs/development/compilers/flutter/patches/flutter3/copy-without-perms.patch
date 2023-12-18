@@ -2,7 +2,7 @@ diff --git a/packages/flutter_tools/lib/src/build_system/targets/assets.dart b/p
 index 5f458bd53e..7a6c59f98d 100644
 --- a/packages/flutter_tools/lib/src/build_system/targets/assets.dart
 +++ b/packages/flutter_tools/lib/src/build_system/targets/assets.dart
-@@ -128,7 +128,11 @@ Future<Depfile> copyAssets(
+@@ -149,7 +149,11 @@ Future<Depfile> copyAssets(
                break;
            }
            if (doCopy) {
