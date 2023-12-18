@@ -12,7 +12,7 @@ diff --git a/packages/flutter_tools/lib/src/dart/pub.dart b/packages/flutter_too
 index 40e60f9005..22fd3cebc7 100644
 --- a/packages/flutter_tools/lib/src/dart/pub.dart
 +++ b/packages/flutter_tools/lib/src/dart/pub.dart
-@@ -3,6 +3,7 @@
+@@ -6,6 +6,7 @@
  // found in the LICENSE file.
  
  import 'dart:async';
@@ -20,7 +20,7 @@ index 40e60f9005..22fd3cebc7 100644
  
  import 'package:meta/meta.dart';
  import 'package:package_config/package_config.dart';
-@@ -544,7 +545,7 @@ class _DefaultPub implements Pub {
+@@ -547,7 +548,7 @@ class _DefaultPub implements Pub {
  
    List<String> _computePubCommand() {
      // TODO(zanderso): refactor to use artifacts.
