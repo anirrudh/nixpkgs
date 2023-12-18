@@ -75,7 +75,7 @@ in
   inherit wrapFlutter;
   stable = mkFlutter {
     version = "3.16.4";
-    engineVersion = "c08d7d5efc9aa6eb3c30cfb3be6dc09bca5e7631";
+    engineVersion = "54a7145303f0dd9d0f93424a2e124eb4abef509";
     dartVersion = "3.2.3";
     dartHash = {
       x86_64-linux = "";
