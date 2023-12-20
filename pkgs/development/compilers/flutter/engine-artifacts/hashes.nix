@@ -55,7 +55,7 @@
       "artifacts.zip" = "sha256-Rqp5b3StavBF+pwn8MPgZgUNOYtizxp0y+jP2hlPETw=";
     };
     darwin-arm64-release = {
-      "artifacts.zip" = "sha256-0XMoM8jDRoUSPMauKD5lsgC25B7Htod8wYouDKSEGJY=";
+      "artifacts.zip" = "sha256-QsnGpVlSWvP1HB66+iv1CcyuFSnTDfOIRVahwVpSReU=";
     };
     darwin-x64 = {
       "FlutterEmbedder.framework.zip" = "sha256-0zvt0pwo1HbIxxym/jn2Y+1+Iqm/Gw2TfymEcuUHIXQ=";
