@@ -76,7 +76,7 @@
       "gen_snapshot.zip" = "sha256-1na+yx0Nxe/FuHVZqhgbRniZLInShoKE3USaJg0829o=";
     };
     "flutter_patched_sdk.zip" = "sha256-0VjXLND3nJAaGyBAhytBRUvbkJtwZEcndQSrq+D2c08=";
-    "flutter_patched_sdk_product.zip" = "sha256-01qgieDI897sXtEf8ok2SdFgrlN57bwhT3FUfdofZi0="; # mark 3
+    "flutter_patched_sdk_product.zip" = "sha256-BBqeN34ZATXH9A56eg4xN38TfpXdUeTfh0bYkY/Pyp0="; # mark 3
     ios = {
       "artifacts.zip" = "sha256-RicBTTBX5aIQwfcolDrKe0MVG9uTp56RYMWgR75AVEw=";
     };
