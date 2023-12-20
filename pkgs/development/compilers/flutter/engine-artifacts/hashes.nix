@@ -85,7 +85,7 @@
     };
     ios-release = {
       "Flutter.dSYM.zip" = "sha256-0YqlX4QhxnDb9LasMcBcPO/+30LCfVbwC+z+wZiiEqk=";
-      "artifacts.zip" = "sha256-0Vpynf2LxU6CPC1BPQbi8OStcIwJKX55rDSWNiJ4KNk=";
+      "artifacts.zip" = "sha256-8z+TrpqWeyzZqV3fHGmzA1dVJHq8D/ORcWZ2v+C6g8g=";
     }; # mark 4
     linux-arm64 = {
       "artifacts.zip" = "sha256-djesma+IqQZgGlxQj4Gv6hAkQhQKQp7Gsa1I4hksqNc=";
