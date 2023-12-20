@@ -19,7 +19,7 @@
       "artifacts.zip" = "sha256-XnY0a+rmj1VCBOTxieRghVScAgUsXEjXqBepOEdy88s=";
     };
     android-arm64-profile = { # FIX ENTIRE
-      "artifacts.zip" = "sha256-04TEJWi3c6mEPGh+3l4PtRqsg4Tq7mxHtGz+4MqwzPw=";
+      "artifacts.zip" = "sha256-R+tnoRAkDxo33EeT5JrdgWwXpIVSBtywn8q2MGiSTlc=";
       "linux-x64.zip" = "sha256-PsDKOq3DXaNeNtaFtDQJ9JIEESXBHm8XHHpOw2u1cGg=";
       "darwin-x64.zip" = "sha256-lHNs3NFE3nRJg1ZhkTNcP+WZauVNCInfs06CK3jeG4c="; 
     };
