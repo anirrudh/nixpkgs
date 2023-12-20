@@ -3,12 +3,12 @@
     skyNotice = "sha256-1rkOkTJwwfFRh1r3DjylUN4mV93UGKyfbu/r5Tsdi4g=";
     flutterNotice = "sha256-pZjblLYpD/vhC17PkRBXtqlDNRxyf92p5fKJHWhwCiA=";
     android-arm = {
-      "artifacts.zip" = "sha256-0nUDY2sUN2r/LrivyNkfTUpQC90GKOI6Ya+0lgIz+c0=";
+      "artifacts.zip" = "sha256-mpMtAyKMotZz1PDXMuFkLBU7nXZZUEE+ZvJC/0HT19I=";
     };
     android-arm-profile = {
-      "artifacts.zip" = "sha256-/kDNI+no4u2Ri/FqqsQEp2iEqifULYGqzz8w0G4pzCM=";
-      "linux-x64.zip" = "sha256-fUfaDJIo1VcdJHcd0jO98Az3OdNQ+JtA5Mp6nQVVU4E=";
-      "darwin-x64.zip" = "sha256-J7vDD5VEsgnWmbI8acM3vQwrnrqcfMaCijiItDfniLY=";
+      "artifacts.zip" = "sha256-1kDNI+no4u2Ri/FqqsQEp2iEqifULYGqzz8w0G4pzCM=";
+      "linux-x64.zip" = "sha256-2UfaDJIo1VcdJHcd0jO98Az3OdNQ+JtA5Mp6nQVVU4E=";
+      "darwin-x64.zip" = "sha256-37vDD5VEsgnWmbI8acM3vQwrnrqcfMaCijiItDfniLY=";
     };
     android-arm-release = {
       "artifacts.zip" = "sha256-tVAFHHG8A8vlgQu6l6ybdfm6OmBf2vrYf3PZByWvs08=";
