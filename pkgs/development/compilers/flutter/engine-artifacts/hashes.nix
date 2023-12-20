@@ -62,7 +62,7 @@
       "FlutterMacOS.framework.zip" = "sha256-0MTCULaVOKDq8VrqCmZLo0IPBve0GSh0K2yvtdCvX8c=";
       "artifacts.zip" = "sha256-0BViZUz4b0XurQJM+FCU2toONKmhajabCc66gBUVGgY=";
       "font-subset.zip" = "sha256-BL7xU+pyQMW/EB05X5A3Dkrz+46v8PPUauGoO+KeyBc=";
-      "gen_snapshot.zip" = "sha256-0O0ZfKt96x8/Jwh8DgBoPFiv84Tqf9tR/f0PVRJlJiQ=";
+      "gen_snapshot.zip" = "sha256-HSRasNmoQLnhNdvtKKNeJn4x3EAvltLb0M+IzoDsWnw=";
     }; # mark 2
     darwin-x64-profile = {
       "FlutterMacOS.framework.zip" = "sha256-IrXK0Mjllic3OKaYKKpAE9gPIceTO32hGqgxGR66QmY=";
