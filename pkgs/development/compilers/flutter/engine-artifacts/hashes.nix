@@ -72,7 +72,7 @@
     darwin-x64-release = {
       "FlutterMacOS.dSYM.zip" = "sha256-0jU8sLPwvOwO3LP7krpZZW6/t3sN3rX2frFnBp1Kk0I=";
       "FlutterMacOS.framework.zip" = "sha256-uafJ7X//jUyLwWBD9PFyc8q7ECMH1OaQGzMk4KkvcX0=";
-      "artifacts.zip" = "sha256-0QCm1HHrhffNz9a0lNIHXLBqFMbT4QiaibKvRKuuhJ4=";
+      "artifacts.zip" = "sha256-hSqcnf68Hv1H8AEk8x0X7m8bSWw8GNbb6We8mgw4M18=";
       "gen_snapshot.zip" = "sha256-y2zl/Z6hWgqQ3D4uk2CHqtrw/wjix1un+fAf53gzzA8=";
     };
     "flutter_patched_sdk.zip" = "sha256-0VjXLND3nJAaGyBAhytBRUvbkJtwZEcndQSrq+D2c08=";
