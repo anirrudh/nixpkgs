@@ -21,7 +21,7 @@
     android-arm64-profile = { # FIX ENTIRE
       "artifacts.zip" = "sha256-04TEJWi3c6mEPGh+3l4PtRqsg4Tq7mxHtGz+4MqwzPw=";
       "linux-x64.zip" = "sha256-PsDKOq3DXaNeNtaFtDQJ9JIEESXBHm8XHHpOw2u1cGg=";
-      "darwin-x64.zip" = "sha256-04W1CEBOlZVsHjuhvKCUZWv45VSohRd23vviaLqMNjQ="; 
+      "darwin-x64.zip" = "sha256-lHNs3NFE3nRJg1ZhkTNcP+WZauVNCInfs06CK3jeG4c="; 
     };
     android-arm64-release = {
       "artifacts.zip" = "sha256-0+J4sNhYoj44IiHpZ0BkemCYlE9wOTvWL57Y8RCstkI="; # Nope
@@ -50,7 +50,7 @@
     darwin-arm64 = {
       "artifacts.zip" = "sha256-0f+rmN0RqLM7MgEKjTcybMY0bFYCB1jsTvaVE1J0BzY=";
       "font-subset.zip" = "sha256-NEN4x96RyRvJnQMuQjmQddIm+3aWzuIwmmg1jRmwmOA=";
-    };
+    }; # fixed till here
     darwin-arm64-profile = {
       "artifacts.zip" = "sha256-EaXOr998zE4cG5G5FRtsDGt3jjg1GjkRGE/ZDD3Coto=";
     };
