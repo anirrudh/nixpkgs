@@ -13,10 +13,10 @@
     android-arm-release = {
       "artifacts.zip" = "sha256-4+iTBR+O353sSwXU+hHbfY9sj1stjObviEHkhRyBTzg=";
       "linux-x64.zip" = "sha256-nrejG7zpUBox9kPvs1uPM/lyR1d/SAc1w+c6kcqghHI=";
-      "darwin-x64.zip" = "sha256-nlKOsqLgbnuoCR87v84dn8V3PRzl1+maWFIHopiGvbc=";
+      "darwin-x64.zip" = "sha256-OVrVU7yNAxVzh6RNWJGKEqw52k1evDY6Ju+8Se2WecE=";
     };
     android-arm64 = {
-      "artifacts.zip" = "sha256-rcU2mX0nP1ot+6DU+uxvILUOAuwTPGH23UQ6riBs0d4=";
+      "artifacts.zip" = "sha256-0cU2mX0nP1ot+6DU+uxvILUOAuwTPGH23UQ6riBs0d4=";
     };
     android-arm64-profile = {
       "artifacts.zip" = "sha256-x4TEJWi3c6mEPGh+3l4PtRqsg4Tq7mxHtGz+4MqwzPw=";
