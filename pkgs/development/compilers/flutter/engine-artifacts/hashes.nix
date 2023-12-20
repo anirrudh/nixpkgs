@@ -65,7 +65,7 @@
       "gen_snapshot.zip" = "sha256-HSRasNmoQLnhNdvtKKNeJn4x3EAvltLb0M+IzoDsWnw=";
     }; # mark 2
     darwin-x64-profile = {
-      "FlutterMacOS.framework.zip" = "sha256-0rXK0Mjllic3OKaYKKpAE9gPIceTO32hGqgxGR66QmY=";
+      "FlutterMacOS.framework.zip" = "sha256-kw4esoj9mubPEGE4OokP7a7QEMFzUPAmutxORJWZndM=";
       "artifacts.zip" = "sha256-0HllbxwRMrEWA1MI0DRCYYRzYAdQIL8B9b5rZHsOvjc=";
       "gen_snapshot.zip" = "sha256-0PI6pHrWQR1X7CzytbJA90TYe3cg1yN+9v7JtsCCrbQ=";
     };
