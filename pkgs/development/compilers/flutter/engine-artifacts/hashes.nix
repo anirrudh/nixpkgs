@@ -67,7 +67,7 @@
     darwin-x64-profile = {
       "FlutterMacOS.framework.zip" = "sha256-kw4esoj9mubPEGE4OokP7a7QEMFzUPAmutxORJWZndM=";
       "artifacts.zip" = "sha256-0HllbxwRMrEWA1MI0DRCYYRzYAdQIL8B9b5rZHsOvjc=";
-      "gen_snapshot.zip" = "sha256-0PI6pHrWQR1X7CzytbJA90TYe3cg1yN+9v7JtsCCrbQ=";
+      "gen_snapshot.zip" = "sha256-aj2jDnFCFcwoiAND/K1Vjec7QiUb4Bs48HYvfeHm6pE=";
     };
     darwin-x64-release = {
       "FlutterMacOS.dSYM.zip" = "sha256-0jU8sLPwvOwO3LP7krpZZW6/t3sN3rX2frFnBp1Kk0I=";
