@@ -12,7 +12,7 @@
     };
     android-arm-release = {
       "artifacts.zip" = "sha256-4+iTBR+O353sSwXU+hHbfY9sj1stjObviEHkhRyBTzg=";
-      "linux-x64.zip" = "sha256-nrejG7zpUBox9kPvs1uPM/lyR1d/SAc1w+c6kcqghHI=";
+      "linux-x64.zip" = "sha256-nrejG7zpUBox9kPvs1uPM/lyR1d/SAc1w+c6kcqghHI="; # fix
       "darwin-x64.zip" = "sha256-OVrVU7yNAxVzh6RNWJGKEqw52k1evDY6Ju+8Se2WecE=";
     };
     android-arm64 = {
@@ -20,12 +20,12 @@
     };
     android-arm64-profile = {
       "artifacts.zip" = "sha256-R+tnoRAkDxo33EeT5JrdgWwXpIVSBtywn8q2MGiSTlc=";
-      "linux-x64.zip" = "sha256-PsDKOq3DXaNeNtaFtDQJ9JIEESXBHm8XHHpOw2u1cGg=";
+      "linux-x64.zip" = "sha256-PsDKOq3DXaNeNtaFtDQJ9JIEESXBHm8XHHpOw2u1cGg="; # fix
       "darwin-x64.zip" = "sha256-lHNs3NFE3nRJg1ZhkTNcP+WZauVNCInfs06CK3jeG4c="; 
     };
     android-arm64-release = {
       "artifacts.zip" = "sha256-KgK3Wk38bZy9RxutaVuk6HwznrxS4GBjqo/g9Y6RI5E=";
-      "linux-x64.zip" = "sha256-MJsmck27V14/f0IAT6b/R47p8/eCMX9Nn//PEAbEeOY=";
+      "linux-x64.zip" = "sha256-MJsmck27V14/f0IAT6b/R47p8/eCMX9Nn//PEAbEeOY="; # fix
       "darwin-x64.zip" = "sha256-51oNX2FGj06yKgW3piwtvjvl0gdyboeOaoiR/1wAY/M=";
     };
     android-x64 = {
@@ -33,16 +33,16 @@
     };
     android-x64-profile = {
       "artifacts.zip" = "sha256-aPmXIPWj81Jj+Wbw8mxYyBFaqoTaGk0HliigPOhyEEU=";
-      "linux-x64.zip" = "sha256-pNn75iZqLwOGO3ZmymmrSasDPMmDWwp9ZWBv9Xti4cU=";
+      "linux-x64.zip" = "sha256-pNn75iZqLwOGO3ZmymmrSasDPMmDWwp9ZWBv9Xti4cU="; # fix
       "darwin-x64.zip" = "sha256-i4XyehtqnNJYLtgwJx7Df1ZEeF4zxp0EltIQHvnv/WA=";
     };
     android-x64-release = {
       "artifacts.zip" = "sha256-zWOAREw+rj6L9I+wZxRWzKr1cwivvVequUurkjTbeUc=";
-      "linux-x64.zip" = "sha256-sVQYmu0KaPADlL59XZc26Ks+TbmaJxRGPiJKlWxUhRA=";
+      "linux-x64.zip" = "sha256-sVQYmu0KaPADlL59XZc26Ks+TbmaJxRGPiJKlWxUhRA="; # fix
       "darwin-x64.zip" = "sha256-O25gxbI5+1s7bM10vnBiBb8bqppbcr5myFP2WBG9494=";
     };
     android-x86 = {
-      "artifacts.zip" = "sha256-0zTFQ0XPtd9OXvKfM98bwpxN/xfEcXox24gn/4aS/Do=";
+      "artifacts.zip" = "sha256-SfCn92Al4O8BKbPdWp2FbaAaadOub9IrIkjDXlfEkes=";
     };
     android-x86-jit-release = {
       "artifacts.zip" = "sha256-nwE1zCqO4LhEt1b3dAYBStDs6iVyDCwWWPIZ9FPetzU=";
