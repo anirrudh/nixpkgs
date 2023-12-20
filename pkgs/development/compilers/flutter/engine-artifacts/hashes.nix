@@ -3,7 +3,7 @@
     skyNotice = "sha256-1rkOkTJwwfFRh1r3DjylUN4mV93UGKyfbu/r5Tsdi4g=";
     flutterNotice = "sha256-pZjblLYpD/vhC17PkRBXtqlDNRxyf92p5fKJHWhwCiA=";
     android-arm = {
-      "artifacts.zip" = "sha256-pnUDY2sUN2r/LrivyNkfTUpQC90GKOI6Ya+0lgIz+c0=";
+      "artifacts.zip" = "sha256-0nUDY2sUN2r/LrivyNkfTUpQC90GKOI6Ya+0lgIz+c0=";
     };
     android-arm-profile = {
       "artifacts.zip" = "sha256-/kDNI+no4u2Ri/FqqsQEp2iEqifULYGqzz8w0G4pzCM=";
