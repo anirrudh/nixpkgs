@@ -45,7 +45,7 @@
       "artifacts.zip" = "sha256-0zTFQ0XPtd9OXvKfM98bwpxN/xfEcXox24gn/4aS/Do=";
     };
     android-x86-jit-release = {
-      "artifacts.zip" = "sha256-0UsBqJxOOluwnYEFzdtZof8c4Vp1D81HkEEH8aRGLyY=";
+      "artifacts.zip" = "sha256-nwE1zCqO4LhEt1b3dAYBStDs6iVyDCwWWPIZ9FPetzU=";
     };
     darwin-arm64 = {
       "artifacts.zip" = "sha256-0f+rmN0RqLM7MgEKjTcybMY0bFYCB1jsTvaVE1J0BzY=";
