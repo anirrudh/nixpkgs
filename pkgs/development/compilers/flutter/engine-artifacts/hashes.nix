@@ -66,7 +66,7 @@
     }; # mark 2
     darwin-x64-profile = {
       "FlutterMacOS.framework.zip" = "sha256-kw4esoj9mubPEGE4OokP7a7QEMFzUPAmutxORJWZndM=";
-      "artifacts.zip" = "sha256-0HllbxwRMrEWA1MI0DRCYYRzYAdQIL8B9b5rZHsOvjc=";
+      "artifacts.zip" = "sha256-iUX2Psy8n199O/jVHEhhzuZ7RcQBTbdMKMGn5Dtc3SI=";
       "gen_snapshot.zip" = "sha256-aj2jDnFCFcwoiAND/K1Vjec7QiUb4Bs48HYvfeHm6pE=";
     };
     darwin-x64-release = {
