@@ -58,7 +58,7 @@
       "artifacts.zip" = "sha256-QsnGpVlSWvP1HB66+iv1CcyuFSnTDfOIRVahwVpSReU=";
     };
     darwin-x64 = {
-      "FlutterEmbedder.framework.zip" = "sha256-0zvt0pwo1HbIxxym/jn2Y+1+Iqm/Gw2TfymEcuUHIXQ=";
+      "FlutterEmbedder.framework.zip" = "sha256-I+HWKU3Y3ifB6lsIewKEG8MFHMTuK2fq+JofVFBnv00=";
       "FlutterMacOS.framework.zip" = "sha256-s/593FHymgsJyjyGQiwNMC8nybdFCPg5XjV26unSMco=";
       "artifacts.zip" = "sha256-0BViZUz4b0XurQJM+FCU2toONKmhajabCc66gBUVGgY=";
       "font-subset.zip" = "sha256-BL7xU+pyQMW/EB05X5A3Dkrz+46v8PPUauGoO+KeyBc=";
