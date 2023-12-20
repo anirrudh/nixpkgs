@@ -16,40 +16,40 @@
       "darwin-x64.zip" = "sha256-OVrVU7yNAxVzh6RNWJGKEqw52k1evDY6Ju+8Se2WecE=";
     };
     android-arm64 = {
-      "artifacts.zip" = "sha256-0cU2mX0nP1ot+6DU+uxvILUOAuwTPGH23UQ6riBs0d4=";
+      "artifacts.zip" = "sha256-XnY0a+rmj1VCBOTxieRghVScAgUsXEjXqBepOEdy88s=";
     };
     android-arm64-profile = {
-      "artifacts.zip" = "sha256-x4TEJWi3c6mEPGh+3l4PtRqsg4Tq7mxHtGz+4MqwzPw=";
+      "artifacts.zip" = "sha256-04TEJWi3c6mEPGh+3l4PtRqsg4Tq7mxHtGz+4MqwzPw=";
       "linux-x64.zip" = "sha256-PsDKOq3DXaNeNtaFtDQJ9JIEESXBHm8XHHpOw2u1cGg=";
-      "darwin-x64.zip" = "sha256-K4W1CEBOlZVsHjuhvKCUZWv45VSohRd23vviaLqMNjQ=";
+      "darwin-x64.zip" = "sha256-04W1CEBOlZVsHjuhvKCUZWv45VSohRd23vviaLqMNjQ=";
     };
     android-arm64-release = {
-      "artifacts.zip" = "sha256-w+J4sNhYoj44IiHpZ0BkemCYlE9wOTvWL57Y8RCstkI=";
+      "artifacts.zip" = "sha256-0+J4sNhYoj44IiHpZ0BkemCYlE9wOTvWL57Y8RCstkI=";
       "linux-x64.zip" = "sha256-MJsmck27V14/f0IAT6b/R47p8/eCMX9Nn//PEAbEeOY=";
-      "darwin-x64.zip" = "sha256-xXa5GFatJPiwBANqeWUpAdM9gibD4xH85aI6YpJrcpI=";
+      "darwin-x64.zip" = "sha256-0Xa5GFatJPiwBANqeWUpAdM9gibD4xH85aI6YpJrcpI=";
     };
     android-x64 = {
-      "artifacts.zip" = "sha256-doNUwEJkwncHPIf2c8xOZByUU8dmogtWlc6q7n7ElDY=";
+      "artifacts.zip" = "sha256-0oNUwEJkwncHPIf2c8xOZByUU8dmogtWlc6q7n7ElDY=";
     };
     android-x64-profile = {
-      "artifacts.zip" = "sha256-N3AjdHdzj4s6v3f3Gf6n/1Xk0W7xFQP70SneCNlj2sk=";
+      "artifacts.zip" = "sha256-03AjdHdzj4s6v3f3Gf6n/1Xk0W7xFQP70SneCNlj2sk=";
       "linux-x64.zip" = "sha256-pNn75iZqLwOGO3ZmymmrSasDPMmDWwp9ZWBv9Xti4cU=";
-      "darwin-x64.zip" = "sha256-6O4lA/4wZ91ODUUYHe4HpjvraAEbhHiehBmf3sT37Dc=";
+      "darwin-x64.zip" = "sha256-0O4lA/4wZ91ODUUYHe4HpjvraAEbhHiehBmf3sT37Dc=";
     };
     android-x64-release = {
-      "artifacts.zip" = "sha256-odDS/m8fgSA24EYt+W2sEDmOlPO17FZxxomWuYUHmns=";
+      "artifacts.zip" = "sha256-0dDS/m8fgSA24EYt+W2sEDmOlPO17FZxxomWuYUHmns=";
       "linux-x64.zip" = "sha256-sVQYmu0KaPADlL59XZc26Ks+TbmaJxRGPiJKlWxUhRA=";
-      "darwin-x64.zip" = "sha256-dep/CmBIDkvqYKQPWMCDTDbFhVvOk6N7JAF8v3dr/P8=";
+      "darwin-x64.zip" = "sha256-0ep/CmBIDkvqYKQPWMCDTDbFhVvOk6N7JAF8v3dr/P8=";
     };
     android-x86 = {
-      "artifacts.zip" = "sha256-MzTFQ0XPtd9OXvKfM98bwpxN/xfEcXox24gn/4aS/Do=";
+      "artifacts.zip" = "sha256-0zTFQ0XPtd9OXvKfM98bwpxN/xfEcXox24gn/4aS/Do=";
     };
     android-x86-jit-release = {
-      "artifacts.zip" = "sha256-cUsBqJxOOluwnYEFzdtZof8c4Vp1D81HkEEH8aRGLyY=";
+      "artifacts.zip" = "sha256-0UsBqJxOOluwnYEFzdtZof8c4Vp1D81HkEEH8aRGLyY=";
     };
     darwin-arm64 = {
-      "artifacts.zip" = "sha256-df+rmN0RqLM7MgEKjTcybMY0bFYCB1jsTvaVE1J0BzY=";
-      "font-subset.zip" = "sha256-hJ5fECxN4oZX6E9ivzSDGejNSj56t2SKccbyfozXxps=";
+      "artifacts.zip" = "sha256-0f+rmN0RqLM7MgEKjTcybMY0bFYCB1jsTvaVE1J0BzY=";
+      "font-subset.zip" = "sha256-0J5fECxN4oZX6E9ivzSDGejNSj56t2SKccbyfozXxps=";
     };
     darwin-arm64-profile = {
       "artifacts.zip" = "sha256-EaXOr998zE4cG5G5FRtsDGt3jjg1GjkRGE/ZDD3Coto=";
