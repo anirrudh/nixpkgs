@@ -32,7 +32,7 @@
       "artifacts.zip" = "sha256-0oNUwEJkwncHPIf2c8xOZByUU8dmogtWlc6q7n7ElDY=";
     };
     android-x64-profile = {
-      "artifacts.zip" = "sha256-03AjdHdzj4s6v3f3Gf6n/1Xk0W7xFQP70SneCNlj2sk=";
+      "artifacts.zip" = "sha256-aPmXIPWj81Jj+Wbw8mxYyBFaqoTaGk0HliigPOhyEEU=";
       "linux-x64.zip" = "sha256-pNn75iZqLwOGO3ZmymmrSasDPMmDWwp9ZWBv9Xti4cU=";
       "darwin-x64.zip" = "sha256-i4XyehtqnNJYLtgwJx7Df1ZEeF4zxp0EltIQHvnv/WA=";
     };
