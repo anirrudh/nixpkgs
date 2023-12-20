@@ -81,7 +81,7 @@
       "artifacts.zip" = "sha256-0icBTTBX5aIQwfcolDrKe0MVG9uTp56RYMWgR75AVEw=";
     };
     ios-profile = {
-      "artifacts.zip" = "sha256-0EXHvy36K+rRGpjt0GL/DyuOhpAGeaOrZAZvPZuLyys=";
+      "artifacts.zip" = "sha256-ENeZF3H0X+3YZMvPRFgl+CiiSiFyvgaQvBSCZphMUVY=";
     };
     ios-release = {
       "Flutter.dSYM.zip" = "sha256-zYqlX4QhxnDb9LasMcBcPO/+30LCfVbwC+z+wZiiEqk=";
