@@ -60,23 +60,23 @@
     darwin-x64 = {
       "FlutterEmbedder.framework.zip" = "sha256-I+HWKU3Y3ifB6lsIewKEG8MFHMTuK2fq+JofVFBnv00=";
       "FlutterMacOS.framework.zip" = "sha256-s/593FHymgsJyjyGQiwNMC8nybdFCPg5XjV26unSMco=";
-      "artifacts.zip" = "sha256-0BViZUz4b0XurQJM+FCU2toONKmhajabCc66gBUVGgY=";
+      "artifacts.zip" = "sha256-1TjPYPGPw9AJ/mvB7dO7kfvfNgGyOe5DX8WDPC9JWS0=";
       "font-subset.zip" = "sha256-BL7xU+pyQMW/EB05X5A3Dkrz+46v8PPUauGoO+KeyBc=";
       "gen_snapshot.zip" = "sha256-HSRasNmoQLnhNdvtKKNeJn4x3EAvltLb0M+IzoDsWnw=";
     }; # mark 2
     darwin-x64-profile = {
-      "FlutterMacOS.framework.zip" = "sha256-IrXK0Mjllic3OKaYKKpAE9gPIceTO32hGqgxGR66QmY=";
-      "artifacts.zip" = "sha256-IHllbxwRMrEWA1MI0DRCYYRzYAdQIL8B9b5rZHsOvjc=";
-      "gen_snapshot.zip" = "sha256-bPI6pHrWQR1X7CzytbJA90TYe3cg1yN+9v7JtsCCrbQ=";
+      "FlutterMacOS.framework.zip" = "sha256-0rXK0Mjllic3OKaYKKpAE9gPIceTO32hGqgxGR66QmY=";
+      "artifacts.zip" = "sha256-0HllbxwRMrEWA1MI0DRCYYRzYAdQIL8B9b5rZHsOvjc=";
+      "gen_snapshot.zip" = "sha256-0PI6pHrWQR1X7CzytbJA90TYe3cg1yN+9v7JtsCCrbQ=";
     };
     darwin-x64-release = {
-      "FlutterMacOS.dSYM.zip" = "sha256-HjU8sLPwvOwO3LP7krpZZW6/t3sN3rX2frFnBp1Kk0I=";
-      "FlutterMacOS.framework.zip" = "sha256-GuTWojZFdSEeOiSYxH8XGSWsxcrkUpnXA61B0NpDa5A=";
-      "artifacts.zip" = "sha256-tQCm1HHrhffNz9a0lNIHXLBqFMbT4QiaibKvRKuuhJ4=";
-      "gen_snapshot.zip" = "sha256-0na+yx0Nxe/FuHVZqhgbRniZLInShoKE3USaJg0829o=";
+      "FlutterMacOS.dSYM.zip" = "sha256-0jU8sLPwvOwO3LP7krpZZW6/t3sN3rX2frFnBp1Kk0I=";
+      "FlutterMacOS.framework.zip" = "sha256-0uTWojZFdSEeOiSYxH8XGSWsxcrkUpnXA61B0NpDa5A=";
+      "artifacts.zip" = "sha256-0QCm1HHrhffNz9a0lNIHXLBqFMbT4QiaibKvRKuuhJ4=";
+      "gen_snapshot.zip" = "sha256-1na+yx0Nxe/FuHVZqhgbRniZLInShoKE3USaJg0829o=";
     };
-    "flutter_patched_sdk.zip" = "sha256-AVjXLND3nJAaGyBAhytBRUvbkJtwZEcndQSrq+D2c08=";
-    "flutter_patched_sdk_product.zip" = "sha256-31qgieDI897sXtEf8ok2SdFgrlN57bwhT3FUfdofZi0=";
+    "flutter_patched_sdk.zip" = "sha256-0VjXLND3nJAaGyBAhytBRUvbkJtwZEcndQSrq+D2c08=";
+    "flutter_patched_sdk_product.zip" = "sha256-01qgieDI897sXtEf8ok2SdFgrlN57bwhT3FUfdofZi0="; # mark 3
     ios = {
       "artifacts.zip" = "sha256-RicBTTBX5aIQwfcolDrKe0MVG9uTp56RYMWgR75AVEw=";
     };
