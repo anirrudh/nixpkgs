@@ -52,7 +52,7 @@
       "font-subset.zip" = "sha256-NEN4x96RyRvJnQMuQjmQddIm+3aWzuIwmmg1jRmwmOA=";
     }; # fixed till here
     darwin-arm64-profile = {
-      "artifacts.zip" = "sha256-0aXOr998zE4cG5G5FRtsDGt3jjg1GjkRGE/ZDD3Coto=";
+      "artifacts.zip" = "sha256-Rqp5b3StavBF+pwn8MPgZgUNOYtizxp0y+jP2hlPETw=";
     };
     darwin-arm64-release = {
       "artifacts.zip" = "sha256-0XMoM8jDRoUSPMauKD5lsgC25B7Htod8wYouDKSEGJY=";
