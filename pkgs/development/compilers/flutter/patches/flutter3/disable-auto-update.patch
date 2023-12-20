@@ -15,7 +15,7 @@ diff --git a/packages/flutter_tools/lib/src/cache.dart b/packages/flutter_tools/
 index 13efbde879..467b3a7cbf 100644
 --- a/packages/flutter_tools/lib/src/cache.dart
 +++ b/packages/flutter_tools/lib/src/cache.dart
-@@ -713,6 +713,7 @@ class Cache {
+@@ -700,6 +700,7 @@ class Cache {
  
    /// Update the cache to contain all `requiredArtifacts`.
    Future<void> updateAll(Set<DevelopmentArtifact> requiredArtifacts, {bool offline = false}) async {
