@@ -71,7 +71,7 @@
     };
     darwin-x64-release = {
       "FlutterMacOS.dSYM.zip" = "sha256-0jU8sLPwvOwO3LP7krpZZW6/t3sN3rX2frFnBp1Kk0I=";
-      "FlutterMacOS.framework.zip" = "sha256-0uTWojZFdSEeOiSYxH8XGSWsxcrkUpnXA61B0NpDa5A=";
+      "FlutterMacOS.framework.zip" = "sha256-uafJ7X//jUyLwWBD9PFyc8q7ECMH1OaQGzMk4KkvcX0=";
       "artifacts.zip" = "sha256-0QCm1HHrhffNz9a0lNIHXLBqFMbT4QiaibKvRKuuhJ4=";
       "gen_snapshot.zip" = "sha256-1na+yx0Nxe/FuHVZqhgbRniZLInShoKE3USaJg0829o=";
     };
