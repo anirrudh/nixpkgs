@@ -18,15 +18,15 @@
     android-arm64 = {
       "artifacts.zip" = "sha256-XnY0a+rmj1VCBOTxieRghVScAgUsXEjXqBepOEdy88s=";
     };
-    android-arm64-profile = {
+    android-arm64-profile = { # FIX ENTIRE
       "artifacts.zip" = "sha256-04TEJWi3c6mEPGh+3l4PtRqsg4Tq7mxHtGz+4MqwzPw=";
       "linux-x64.zip" = "sha256-PsDKOq3DXaNeNtaFtDQJ9JIEESXBHm8XHHpOw2u1cGg=";
-      "darwin-x64.zip" = "sha256-04W1CEBOlZVsHjuhvKCUZWv45VSohRd23vviaLqMNjQ=";
+      "darwin-x64.zip" = "sha256-04W1CEBOlZVsHjuhvKCUZWv45VSohRd23vviaLqMNjQ="; 
     };
     android-arm64-release = {
       "artifacts.zip" = "sha256-0+J4sNhYoj44IiHpZ0BkemCYlE9wOTvWL57Y8RCstkI=";
       "linux-x64.zip" = "sha256-MJsmck27V14/f0IAT6b/R47p8/eCMX9Nn//PEAbEeOY=";
-      "darwin-x64.zip" = "sha256-0Xa5GFatJPiwBANqeWUpAdM9gibD4xH85aI6YpJrcpI=";
+      "darwin-x64.zip" = "sha256-51oNX2FGj06yKgW3piwtvjvl0gdyboeOaoiR/1wAY/M=";
     };
     android-x64 = {
       "artifacts.zip" = "sha256-0oNUwEJkwncHPIf2c8xOZByUU8dmogtWlc6q7n7ElDY=";
