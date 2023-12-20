@@ -39,7 +39,7 @@
     android-x64-release = {
       "artifacts.zip" = "sha256-zWOAREw+rj6L9I+wZxRWzKr1cwivvVequUurkjTbeUc=";
       "linux-x64.zip" = "sha256-sVQYmu0KaPADlL59XZc26Ks+TbmaJxRGPiJKlWxUhRA=";
-      "darwin-x64.zip" = "sha256-0ep/CmBIDkvqYKQPWMCDTDbFhVvOk6N7JAF8v3dr/P8=";
+      "darwin-x64.zip" = "sha256-O25gxbI5+1s7bM10vnBiBb8bqppbcr5myFP2WBG9494=";
     };
     android-x86 = {
       "artifacts.zip" = "sha256-0zTFQ0XPtd9OXvKfM98bwpxN/xfEcXox24gn/4aS/Do=";
