@@ -78,14 +78,14 @@
     "flutter_patched_sdk.zip" = "sha256-SjGccH51cUF8EEmzSQRxHrgHhB27QniptNOoSB4kaLQ=";
     "flutter_patched_sdk_product.zip" = "sha256-BBqeN34ZATXH9A56eg4xN38TfpXdUeTfh0bYkY/Pyp0="; # mark 3
     ios = {
-      "artifacts.zip" = "sha256-0icBTTBX5aIQwfcolDrKe0MVG9uTp56RYMWgR75AVEw=";
+      "artifacts.zip" = "sha256-jLc6AlV8ZGWNgZ8Ss4NS2jp5HUH2RJLS1qpJNyqWWXM=";
     };
     ios-profile = {
       "artifacts.zip" = "sha256-ENeZF3H0X+3YZMvPRFgl+CiiSiFyvgaQvBSCZphMUVY=";
     };
     ios-release = {
-      "Flutter.dSYM.zip" = "sha256-zYqlX4QhxnDb9LasMcBcPO/+30LCfVbwC+z+wZiiEqk=";
-      "artifacts.zip" = "sha256-DVpynf2LxU6CPC1BPQbi8OStcIwJKX55rDSWNiJ4KNk=";
+      "Flutter.dSYM.zip" = "sha256-0YqlX4QhxnDb9LasMcBcPO/+30LCfVbwC+z+wZiiEqk=";
+      "artifacts.zip" = "sha256-0Vpynf2LxU6CPC1BPQbi8OStcIwJKX55rDSWNiJ4KNk=";
     }; # mark 4
     linux-arm64 = {
       "artifacts.zip" = "sha256-djesma+IqQZgGlxQj4Gv6hAkQhQKQp7Gsa1I4hksqNc=";
