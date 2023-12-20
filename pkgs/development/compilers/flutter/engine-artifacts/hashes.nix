@@ -88,7 +88,7 @@
       "artifacts.zip" = "sha256-8z+TrpqWeyzZqV3fHGmzA1dVJHq8D/ORcWZ2v+C6g8g=";
     }; # fixed till here
     linux-arm64 = {
-      "artifacts.zip" = "sha256-djesma+IqQZgGlxQj4Gv6hAkQhQKQp7Gsa1I4hksqNc=";
+      "artifacts.zip" = "sha256-0jesma+IqQZgGlxQj4Gv6hAkQhQKQp7Gsa1I4hksqNc=";
       "font-subset.zip" = "sha256-Wo11dks0uhLI2nu+9QJ7aLmvfsPcuqvcmquak4qv5XM=";
     };
     linux-arm64-debug = {
